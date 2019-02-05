@@ -1,0 +1,23 @@
+body {
+background-color: #ffffb3;
+}
+
+h1 { background-color: #b3b3ff; color: #b3ffff; text-align: center;
+font-family: Georgia ; font-variant: small-caps;
+}
+
+img {
+  border-radius: 50%; 
+}
+
+figure {
+	background-color: #b3b3ff; color: #b3ffff;display: block;
+}
+figcaption {
+	text-align: right; font-family: Georgia ; font-variant: small-caps;
+}
+
+table { text-align: center; font-family: Georgia ; font-variant: small-caps; 
+	background-color: #b3b3ff ; color: #b3ffff;  border: dashed; border-collapse: collapse;
+	display: inline-flex;
+}
